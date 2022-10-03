@@ -1,0 +1,14 @@
+_core:
+  default_config_hash: VDJxTZtQR21qB4lvOq8zszJZLvLKrSPQpdn2E3T71Ww
+langcode: en
+uuid: 93d9710c-a41e-4950-bd5a-ad7b2a4bd601
+name: 'Lagoon Fiddle'
+mail: admin@example.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node/1
+admin_compact_mode: false
+weight_select_max: 100
+default_langcode: en
